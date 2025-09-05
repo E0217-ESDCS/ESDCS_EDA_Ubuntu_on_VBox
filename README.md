@@ -67,6 +67,6 @@ sudo adduser $USER vboxsf
 
 #### Step 10: Restart VM
 Restart the VM to apply changes.
-
 (Mandatory: Please refer to Annexure A for the required folders)  
+
 ---
