@@ -1,9 +1,6 @@
 
 ### 3️⃣ Option 3: Installing Ubuntu 22.04.5 in VirtualBox 
 
-📺 **Video Walkthrough:** [EDA Tools Installation on Ubuntu VM](https://youtu.be/E_-FE6aHIUA)  
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Now-red?logo=youtube&logoColor=white)](https://youtu.be/E_-FE6aHIUA)
-
 #### Step 1: Install VirtualBox
 Download from: [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
 
